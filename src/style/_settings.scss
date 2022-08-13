@@ -47,7 +47,7 @@ a:visited {
 
 body {
   font-family: $font-1;
-  height: 100vh;
+  max-height: 100vh;
   background-color: $color-1;
   color: $black;
   overflow: hidden;
